@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GordonMoll
 - 👀 I’m interested in home automation
-- 🌱 I’m currently learning yaml
 - 💞️ I’m looking to collaborate on Home Assistant
 - 📫 How to reach me ... g.moll@comcast.net
 

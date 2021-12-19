@@ -2,7 +2,7 @@
 - 👀 I’m interested in home automation
 - 🌱 I’m currently learning yaml
 - 💞️ I’m looking to collaborate on Home Assistant
-- 📫 How to reach me ... telepathically
+- 📫 How to reach me ... g.moll@comcast.net
 
 <!---
 GordonMoll/GordonMoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
